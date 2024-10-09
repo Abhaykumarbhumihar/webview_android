@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ZumaMobile" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#155247</item>
+
+        <item name="android:windowIsTranslucent">true</item>
+
+
+
+    </style>
+
+
+
+
+
+    <style name="Theme.ZumaMobile" parent="Base.Theme.ZumaMobile" />
+</resources>
